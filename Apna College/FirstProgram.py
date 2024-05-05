@@ -6,3 +6,8 @@ print("My age is ",age)
 
 print(type(name))
 print(type(age))
+
+a=5
+b=4
+sum=a+b
+print(sum)
