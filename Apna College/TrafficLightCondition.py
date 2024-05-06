@@ -14,7 +14,7 @@ elif (light=="Green"):
     print("Go!")
 elif (light=="Yellow"):
     print("Look!")
-elif (light=="Blue"):
+elif (light=="Blue" or light=="White"):
     print("Light is Broken")
 else:
     print("Invalid Keyword, Please try Again Later")
